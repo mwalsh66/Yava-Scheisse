@@ -1,0 +1,20 @@
+/* style sheet created by: Maison Walsh */ 
+
+body {
+	border: .05em solid #000000;
+	font-size: 5em;
+}
+
+ img {
+	height: 50%;
+	width: 50%;
+	position: absolute;
+}
+
+ p {
+	font-family: Impact;
+	position: absolute;
+	z-index: 1;
+ }
+ 
+ 
